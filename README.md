@@ -17,3 +17,7 @@ You can upload images, text, videos or change the music your screen is displayin
 
 # Villas del fresno
 That is a system to upload, download and mange various kind of documents and data of clients. It gives you the chance to modify all data whenever you want if you have the authorization.
+
+
+# Screenshots
+In the screenshot folder, you can find some other pages I've worked on or that I've managed.
