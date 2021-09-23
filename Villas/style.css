@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: black;
+}
+.box {
+  width: 300px;
+  padding: 40px;
+  position: absolute;
+  top: 61%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #dfe6e9;
+  text-align: center;
+  border-radius: 24px;
+}
+.box h1 {
+  color: #2d3436;
+  font-weight: 500;
+}
+.box input[type="email"],
+.box input[type="password"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #636e72;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: #2d3436;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.box input[type="email"]:focus,
+.box input[type="password"]:focus {
+  width: 280px;
+  border-color: #d1ae6c;
+}
+.box input[type="submit"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #d1ae6c;
+  padding: 14px 40px;
+  width: 200px;
+  outline: none;
+  color: #2d3436;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.box input[type="submit"]:hover {
+  background: #d1ae6c;
+}
+.logo {
+  width: 250px;
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #dfe6e9;
+  text-align: center;
+  border-radius: 24px;
+}
+
+.table {
+  width: 1200px;
+  padding: 40px;
+  position: absolute;
+  top: 61%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #dfe6e9;
+  text-align: center;
+  border-radius: 24px;
+  
+}
+.table h1 {
+  color: #2d3436;
+  font-weight: 500;
+}
+.table input[type="text"],
+.table input[type="password"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #636e72;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: #2d3436;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.table input[type="text"]:focus,
+.table input[type="password"]:focus {
+  width: 280px;
+  border-color: #d1ae6c;
+}
+.table input[type="submit"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #d1ae6c;
+  padding: 14px 40px;
+  width: 200px;
+  outline: none;
+  color: #2d3436;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.table input[type="submit"]:hover {
+  background: #d1ae6c;
+}
