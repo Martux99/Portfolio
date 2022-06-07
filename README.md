@@ -4,6 +4,8 @@ Here you can find some code snippets of what I have done and some Screenshots
 If you want to contact me, feel free to email me at marcoalejandrocontacto@gmail.com
 I removed all sensitive information, you'll find a lot of "x" instead of them.
 
+# Removed Projects
+i removed some of the projects I've worked because they're internal management systems and are highly confidentials, most of them are .net projects so i'll upload some project examples I have. they are in the .net folder.
 
 
 # Stij
