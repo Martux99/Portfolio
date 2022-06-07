@@ -5,8 +5,13 @@ If you want to contact me, feel free to email me at marcoalejandrocontacto@gmail
 I removed all sensitive information, you'll find a lot of "x" instead of them.
 
 # Removed Projects
-i removed some of the projects I've worked because they're internal management systems and are highly confidentials, most of them are .net projects so i'll upload some project examples I have. they are in the .net folder.
+i removed some of the projects I've worked because they're internal management systems and are highly confidentials, most of them are .net projects so i'll upload some project examples I have. they are in the .net folder. You can find more detailed information of the projects I've already worked in production environments in my CV. if you want to talk about them we can arrange a meeting 
 
+# Book Store
+Is a Sample of a .net MVC app using plain JS and some basic plugins like toastr, font-awesome, datatables. etc.
+
+# Dating App
+It is a sample of a Angular MVVM project working with a .net web api to communicate the server and the web application. It uses a simple repository design pattern.
 
 # Stij
 I developed a page to show a lot of statistics that are taken from a database, I used Google charts to do that. Furthermore, I also was developing a module, so it can show you a heatmap of locations, it was cancelled, though.
